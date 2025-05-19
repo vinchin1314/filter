@@ -4,8 +4,8 @@
 Plugin WordPress phan tich va loc binh luan san pham bang sao.
 
 ## Tac gia
-- Bui Hien Trung
-- Huynh Phu Trong 
+- Bui Hien Trung sunlight14321@gmail.com 
+- Huynh Phu Trong  huynhphutrong8223@gmail.com
 
 ## Tinh nang
 - Hien thi thong ke binh luan theo sao
