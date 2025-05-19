@@ -1,5 +1,5 @@
 # filter
-# Phan Tich Binh Luan
+# ANALYZE COMMENTS Plugin
 
 Plugin WordPress phan tich va loc binh luan san pham bang sao.
 
