@@ -1,5 +1,5 @@
 # filter
-# ANALYZE COMMENTS Plugin
+# Analyze Comments Plugin
 
 Plugin WordPress phan tich va loc binh luan san pham bang sao.
 
